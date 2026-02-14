@@ -1,0 +1,29 @@
+project-x/
+    docs/
+        README.md               # プロジェクト全体の要約（What & Why）
+        01_desire/              # 1. 願望吐露
+            README.md           # 願望の全体像と結論
+            vision.md           # 究極目的「人生の喜び」と「生存本能」
+            document.md         # 「文書」の再定義
+            exchange.md         # 「交換」の詳細要求
+            efficiency.md       # 「効率」の定義
+            stakeholders.md     # 関係者（読者、執筆者、開発者...）とその願望
+            ecosystem.md        # エコシステムの全体像
+        02_current_state/       # 2. 現状把握
+            README.md           # 現状のまとめ
+            text_encoding.md    # 文字コードの現状
+            file_formats.md     # ファイルフォーマットの現状
+            platforms.md        # プラットフォームの現状
+        03_problem/             # 3. 問題提起
+            README.md           # 問題の総括（理想と現実のギャップ）
+        04_cause/               # 4. 原因分析
+            README.md
+        05_solution_search/     # 5. 解法模索
+            README.md
+        06_decision/            # 6. 解法決定
+            README.md
+        07_significance/        # 7. 存在意義
+            README.md
+        08_naming/              # 8. 命名
+            README.md           # 最終的なプロジェクト名の決定
+
