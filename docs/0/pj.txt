@@ -3,6 +3,8 @@ project-x/
         README.md               # プロジェクト全体の要約（What & Why）
         01_desire/              # 1. 願望吐露
             README.md           # 願望の全体像と結論
+            life.md
+            philosophy.md
             vision.md           # 究極目的「人生の喜び」と「生存本能」
             document.md         # 「文書」の再定義
             exchange.md         # 「交換」の詳細要求
