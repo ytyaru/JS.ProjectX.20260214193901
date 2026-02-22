@@ -5,7 +5,8 @@ project-x/
             README.md           # 願望の全体像と結論
             life.md             # 人生とは
             society.md          # 社会とは
-            philosophy.md
+            economy.md          # 経済とは
+            philosophy.md       # 価値とは
             vision.md           # 究極目的「人生の喜び」と「生存本能」
             document.md         # 「文書」の再定義
             exchange.md         # 「交換」の詳細要求
