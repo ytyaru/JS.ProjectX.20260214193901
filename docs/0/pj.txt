@@ -3,10 +3,10 @@ project-x/
         README.md               # プロジェクト全体の要約（What & Why）
         01_desire/              # 1. 願望吐露
             README.md           # 願望の全体像と結論
-            life.md             # 人生とは
-            society.md          # 社会とは
-            economy.md          # 経済とは
-            philosophy.md       # 価値とは
+            life.md             # 人生とは: 生存の本質（依存・悪）を定義する。
+            society.md          # 社会とは: 生存戦略が集団化した結果の構造（欺瞞・支配）を定義する。
+            economy.md          # 経済とは: 社会を動かす **「利益追求のメカニズム」** を定義する。
+            philosophy.md       # 価値とは: 上記の現実に対する **「個人の対抗策（価値創出）」** を定義する。
             vision.md           # 究極目的「人生の喜び」と「生存本能」
             document.md         # 「文書」の再定義
             exchange.md         # 「交換」の詳細要求
